@@ -1,3 +1,7 @@
+```bash
+sudo apt -y update && apt -y upgrade
+```
+
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 
 ```bash
