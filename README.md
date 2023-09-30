@@ -1,3 +1,5 @@
+# instalador_ticket
+
 ```bash
 sudo apt -y update && apt -y upgrade
 ```
@@ -12,4 +14,13 @@ ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR EST
 ```bash
 cd && cd ./install && sudo ./install_instancia
 ```
+
+## Requisitos
+
+| --- | Mínimo | Recomendado |
+| --- | --- | --- |
+| Node JS | 14.x | 16.x |
+| Ubuntu | 18.x | 20.x |
+| Memória RAM | 2Gb | 4Gb |  
+
 
