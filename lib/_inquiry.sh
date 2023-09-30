@@ -204,11 +204,11 @@ inquiry_options() {
   printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador Torres, selecione abaixo a proxima ação!${GRAY_LIGHT}"
   printf "\n\n"
   printf "   [0] Instalar\n"
-  printf "   [1] AtualizarP\n"
+  printf "   [1] Atualizar\n"
   printf "   [2] Deletar\n"
-  printf "   [3] BloquearP\n"
+  printf "   [3] Bloquear\n"
   printf "   [4] Desbloquear\n"
-  printf "   [5] Alter. dominio\n"
+  printf "   [5] Alterar dominio\n"
   printf "\n"
   read -p "> " option
 
