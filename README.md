@@ -2,8 +2,10 @@
 
 ------------------------------------------------------------------------------------------------------------------------------
 SELECIONE E COPIE (TECLA "Ctrl" + A TECLA "C") O CODIGO ABAIXO E NO TERMINAL DE UM CLIQUE COM O BOTÃO DIREITO QUE O CÓDIGO JÁ APARECE NO TERMINAL, APÓS ISSO APERTE A TECLA "ENTER"
+```bash
 sudo apt-get update && sudo apt-get upgrade -y
 ----------------
+```
 
 SELECIONE E COPIE (TECLA "Ctrl" + A TECLA "C") O CÓDIGO ABAIXO E NO TERMINAL DE UM CLIQUE COM O BOTÃO DIREITO QUE O CÓDIGO JÁ APARECE NO TERMINAL, APÓS ISSO APERTE A TECLA "ENTER"
 sudo apt install -y git && git clone https://github.com/Apemerson/instaladorticket install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
