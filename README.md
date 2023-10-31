@@ -38,11 +38,11 @@ DIGITE
 ```
 DIGITE o dominio do seu frontend
 ```bash
-ticket.emersontorres.com.br
+ticket.seudominio.com.br
 ```
 DIGITE o dominio do seu backend
 ```bash
-ticketapi.emersontorres.com.br
+ticketapi.seudominio.com.br
 ```
 DIGITE
 ```bash
