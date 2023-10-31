@@ -84,3 +84,10 @@ Copia e cola:
 
 00020126580014BR.GOV.BCB.PIX01362e05806e-d1b7-4eb7-b1db-f02009c7bc01520400
 ```
+## Se o conteúdo te ajudou ajude este projeto:
+(Nos ajude a trazer novos conteúdos todos os dias!)
+
+
+Copia e cola:
+
+    00020126580014BR.GOV.BCB
