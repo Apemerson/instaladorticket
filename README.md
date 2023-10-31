@@ -74,16 +74,11 @@ cd && cd ./install && sudo ./install_instancia
 | Ubuntu | 18.x | 20.x |
 | Memória RAM | 2Gb | 4Gb |  
 
-Consultoria e contato:
+## Consultoria e contato:
 ```bash
 Fone: 43 99155-2592(WhatsApp)
 ```
-Se o conteúdo te ajudou ajude este projeto:
-```bash
-Copia e cola:
 
-00020126580014BR.GOV.BCB.PIX01362e05806e-d1b7-4eb7-b1db-f02009c7bc01520400
-```
 ## Se o conteúdo te ajudou ajude este projeto:
 (Nos ajude a trazer novos conteúdos todos os dias!)
 
